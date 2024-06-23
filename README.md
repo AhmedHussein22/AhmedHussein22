@@ -5,7 +5,7 @@ I'm a passionate Flutter developer with over 3 years of experience in mobile dev
 ## 🚀 About Me
 
 - 📍 **Location:** Cairo, Egypt
-- 📧 **Email:** [Ahmed.dev22@gmail.com](mailto:Ahmed.dev22@gmail.com)
+- 📧 **Email:** [Ahmed.dev229@gmail.com](mailto:Ahmed.dev22@gmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/ahmed-hussein-66b1b71a5](https://linkedin.com/in/ahmed-hussein-66b1b71a5)
 - 🖥️ **Portfolio:** [ahmed-portfolio-4ccaa.web.app](https://ahmed-portfolio-4ccaa.web.app/)
 - 🌐 **GitHub:** [github.com/AhmedHussein22](https://github.com/AhmedHussein22)
@@ -119,4 +119,4 @@ I'm a passionate Flutter developer with over 3 years of experience in mobile dev
     - [Screenshots](https://drive.google.com/drive/folders/1ZZe7lq--tHfvBDxyxl1SR6a1o1_NnXjR?usp=drive_link)
 
 ## 📫 How to reach me
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/ahmed-hussein-66b1b71a5) or shoot me an email at [Ahmed.dev22@gmail.com](mailto:Ahmed.dev22@gmail.com) if you'd like to discuss potential opportunities, collaborations, or just say hi!
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/ahmed-hussein-66b1b71a5) or shoot me an email at [Ahmed.dev229@gmail.com](mailto:Ahmed.dev22@gmail.com) if you'd like to discuss potential opportunities, collaborations, or just say hi!
