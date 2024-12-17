@@ -35,10 +35,6 @@ I have a proven track record of delivering **17+ applications** that solve real-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedHussein22&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedHussein22&theme=radical" alt="GitHub Streak" width="48%">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHussein22&layout=compact&theme=radical" alt="Top Languages" width="48%">
 </p>
 
